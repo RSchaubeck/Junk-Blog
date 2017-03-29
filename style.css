@@ -1,0 +1,73 @@
+#navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+#navigation li {
+  float: left;
+   border-right: 1px solid white;
+}
+
+#navigation a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.heading {
+  font-family: Spirax, cursive;
+  text-align: center;
+  line-height: 12px;
+  margin-top: 75px;
+  border-style: groove;
+  border-width: thick;
+  border-top: rgba(255, 0, 0, 0.5);
+  border-left: rgba(255, 0, 0, 0.5);
+  border-right: rgba(255, 0, 0, 0.5);
+}
+
+#motto {
+  line-height: 5px;
+  text-align: center;
+  font-style: italic;
+  margin: 10px 0;
+}
+
+h3 {
+  margin-top: 7px;
+}
+
+.post {
+  margin-top: 50px;
+  border: 3px solid black;
+  padding-top: 1px;
+}
+
+#list li {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  line-height: 32px;
+  }
+
+img.jail {
+  width: 75%;
+}
+
+.gift {
+  margin-top: 40px;
+  text-align: left;
+  font-style: normal;
+
+}
+
+img.babe {
+  width: 50%;
+}
